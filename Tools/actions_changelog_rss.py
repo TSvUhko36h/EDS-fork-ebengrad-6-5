@@ -38,7 +38,7 @@ CHANGELOG_RSS_KEY = os.environ.get("CHANGELOG_RSS_KEY")
 SSH_HOST = "cdn.wardex.space"
 SSH_USER = "changelog-rss"
 SSH_PORT = 22
-RSS_FILE = "changelog.xml"
+RSS_FILE = "upload/changelog.xml"
 XSL_FILE = "stylesheet.xsl"
 HOST_KEYS = [
     "AAAAC3NzaC1lZDI1NTE5AAAAINxvJF2k+GE7mPEJIBO/IBQDctoZEisBNa06nHUtwf0C"
@@ -52,7 +52,7 @@ FEED_LANGUAGE    = "ru-RU"
 FEED_GUID_PREFIX = "ss14-changelog-Cotocbas-"
 FEED_URL         = "https://cdn.wardex.space/changelog.xml"
 
-CHANGELOG_FILE = "Resources/Changelog/Changelog.yml"
+CHANGELOG_FILE = "Resources/Changelog/GoobChangelog.yml"
 
 TYPES_TO_EMOJI = {
     "Fix":    "🐛",
