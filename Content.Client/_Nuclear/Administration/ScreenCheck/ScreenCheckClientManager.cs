@@ -1,3 +1,8 @@
+/*
+ * This file is sublicensed under MIT License
+ * https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT
+ */
+
 using System.IO;
 using System.Threading.Tasks;
 using Content.Shared._Nuclear.Administration.ScreenCheck;

@@ -1,3 +1,6 @@
+# This file is sublicensed under MIT License
+# https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT
+
 cmd-screencheck-desc = Request a screenshot from an online player's client.
 cmd-screencheck-help = Usage: screencheck <ckey/userId>
 cmd-screencheck-hint = <ckey>
